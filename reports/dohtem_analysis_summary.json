@@ -1,0 +1,155 @@
+{
+  "analysis_date": "2025-09-05T21:40:19.463172",
+  "dataset_info": {
+    "total_customers": 5630,
+    "churn_rate": 0.16838365896980462,
+    "features_count": 39
+  },
+  "model_performance": {
+    "churn_model_auc": 0.9985858074673863,
+    "segments_identified": 5
+  },
+  "business_impact": {
+    "total_customers": 5630,
+    "current_churn_rate": 0.16838365896980462,
+    "new_churn_rate": 0.13516873889875666,
+    "churn_rate_improvement": 0.033214920071047954,
+    "total_customers_retained": 187,
+    "retention_rate_improvement": 0.033214920071047954,
+    "total_revenue_impact": 1584380.0,
+    "total_implementation_cost": 87353.1,
+    "total_operational_cost": 242470.62,
+    "total_costs": 329823.72,
+    "net_benefit": 1254556.28,
+    "roi_percentage": 380.37175737390874,
+    "payback_period_months": 2.4980652621214605,
+    "avg_customer_value": 1200,
+    "customer_lifespan_improvement_months": 0.39857904085257545,
+    "revenue_per_customer_increase": 281.41740674955594,
+    "segments_analyzed": 5,
+    "segment_impacts": {
+      "0": {
+        "segment_size": 659,
+        "strategy_type": "Engagement_Amplification",
+        "current_churn_rate": 0.030349013657056147,
+        "current_churned_customers": 20,
+        "customers_retained": 4,
+        "retention_revenue": 4800,
+        "value_increase_revenue": 154320.0,
+        "engagement_revenue": 22406.0,
+        "total_revenue_impact": 181526.0,
+        "implementation_cost": 10675.800000000001,
+        "annual_operational_cost": 2135.1600000000003,
+        "total_costs": 12810.960000000001,
+        "net_impact": 168715.04,
+        "roi_percentage": 1316.958604195158,
+        "effectiveness_metrics": {
+          "churn_reduction": 0.2,
+          "value_increase": 0.2,
+          "engagement_increase": 0.4,
+          "implementation_complexity": "High",
+          "time_to_impact_months": 5
+        }
+      },
+      "1": {
+        "segment_size": 1535,
+        "strategy_type": "Engagement_Amplification",
+        "current_churn_rate": 0.21954397394136807,
+        "current_churned_customers": 337,
+        "customers_retained": 67,
+        "retention_revenue": 80400,
+        "value_increase_revenue": 303600.0,
+        "engagement_revenue": 52190.0,
+        "total_revenue_impact": 436190.0,
+        "implementation_cost": 23485.5,
+        "annual_operational_cost": 4697.1,
+        "total_costs": 28182.6,
+        "net_impact": 408007.4,
+        "roi_percentage": 1447.7280307707595,
+        "effectiveness_metrics": {
+          "churn_reduction": 0.2,
+          "value_increase": 0.2,
+          "engagement_increase": 0.4,
+          "implementation_complexity": "High",
+          "time_to_impact_months": 5
+        }
+      },
+      "2": {
+        "segment_size": 1454,
+        "strategy_type": "Engagement_Amplification",
+        "current_churn_rate": 0.19119669876203577,
+        "current_churned_customers": 278,
+        "customers_retained": 55,
+        "retention_revenue": 66000,
+        "value_increase_revenue": 295440.0,
+        "engagement_revenue": 49436.0,
+        "total_revenue_impact": 410876.0,
+        "implementation_cost": 22246.2,
+        "annual_operational_cost": 4449.240000000001,
+        "total_costs": 26695.440000000002,
+        "net_impact": 384180.56,
+        "roi_percentage": 1439.1242848965965,
+        "effectiveness_metrics": {
+          "churn_reduction": 0.2,
+          "value_increase": 0.2,
+          "engagement_increase": 0.4,
+          "implementation_complexity": "High",
+          "time_to_impact_months": 5
+        }
+      },
+      "3": {
+        "segment_size": 690,
+        "strategy_type": "Engagement_Amplification",
+        "current_churn_rate": 0.15797101449275364,
+        "current_churned_customers": 109,
+        "customers_retained": 21,
+        "retention_revenue": 25200,
+        "value_increase_revenue": 144480.0,
+        "engagement_revenue": 23460.0,
+        "total_revenue_impact": 193140.0,
+        "implementation_cost": 11178.0,
+        "annual_operational_cost": 2235.6,
+        "total_costs": 13413.6,
+        "net_impact": 179726.4,
+        "roi_percentage": 1339.8819108964035,
+        "effectiveness_metrics": {
+          "churn_reduction": 0.2,
+          "value_increase": 0.2,
+          "engagement_increase": 0.4,
+          "implementation_complexity": "High",
+          "time_to_impact_months": 5
+        }
+      },
+      "4": {
+        "segment_size": 1292,
+        "strategy_type": "Engagement_Amplification",
+        "current_churn_rate": 0.15789473684210525,
+        "current_churned_customers": 204,
+        "customers_retained": 40,
+        "retention_revenue": 48000,
+        "value_increase_revenue": 270720.0,
+        "engagement_revenue": 43928.0,
+        "total_revenue_impact": 362648.0,
+        "implementation_cost": 19767.6,
+        "annual_operational_cost": 3953.52,
+        "total_costs": 23721.12,
+        "net_impact": 338926.88,
+        "roi_percentage": 1428.797965694706,
+        "effectiveness_metrics": {
+          "churn_reduction": 0.2,
+          "value_increase": 0.2,
+          "engagement_increase": 0.4,
+          "implementation_complexity": "High",
+          "time_to_impact_months": 5
+        }
+      }
+    }
+  },
+  "key_insights": [
+    "Counter-intuitive finding: Higher satisfaction scores correlate with higher churn rates",
+    "Mobile/Mobile Phone categories show highest churn risk (27%+)",
+    "Grocery customers demonstrate excellent retention (4.9% churn)",
+    "187 high-value, high-risk customers identified as priority segment",
+    "Expected ROI of 380% in Year 1 with $1,584,380 revenue impact"
+  ]
+}

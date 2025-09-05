@@ -1,0 +1,511 @@
+{
+  "strategies": {
+    "0": {
+      "segment_id": 0,
+      "segment_description": "Engaged Grocery Customers",
+      "segment_size": 659,
+      "segment_percentage": 11.705150976909414,
+      "strategy_type": "Engagement_Amplification",
+      "priority_level": "Medium-High",
+      "churn_risk_level": "Low",
+      "value_tier": "Standard",
+      "engagement_level": "Very High",
+      "churn_rate": 0.030349013657056147,
+      "avg_value_score": 1.1960804248861914,
+      "avg_engagement": 4.984218512898331,
+      "avg_satisfaction": 3.0121396054628224,
+      "primary_category": "Grocery",
+      "primary_tactics": [
+        "Gamification elements integration",
+        "Social sharing incentives",
+        "User-generated content campaigns",
+        "Community forum access",
+        "Beta product testing invitations",
+        "Achievement and badge systems"
+      ],
+      "secondary_tactics": [
+        "Influencer collaboration opportunities",
+        "Content creation partnerships",
+        "Social media features"
+      ],
+      "retention_actions": [
+        "Engagement reward programs",
+        "Community building initiatives",
+        "Feedback loop optimization"
+      ],
+      "growth_actions": [
+        "Advocacy program development",
+        "Social proof utilization",
+        "Network expansion strategies"
+      ],
+      "category_customizations": {
+        "homepage_focus": "Fresh products and bulk purchase options",
+        "email_content": "Recipe suggestions and nutritional information",
+        "special_offers": "Bulk discounts and subscription services",
+        "content_type": "Recipe videos and nutritional guides",
+        "engagement_strategy": "Recipe sharing and meal planning",
+        "retention_approach": "Convenience and freshness guarantees"
+      },
+      "implementation_timeline": "4-8 weeks implementation",
+      "success_metrics": [
+        "Engagement time +40%",
+        "Social sharing +60%",
+        "Community participation +35%"
+      ],
+      "resource_requirements": [
+        "Community management",
+        "Social media team",
+        "Gamification platform"
+      ],
+      "expected_impact": {
+        "segment_size": 659,
+        "customers_at_risk": 20,
+        "customers_retained": 3,
+        "retention_revenue": 3600,
+        "value_increase_revenue": 154080.0,
+        "revenue_impact": 157680.0,
+        "churn_reduction_rate": 0.15,
+        "value_increase_rate": 0.2
+      },
+      "communication_strategy": {
+        "email_frequency": "Daily",
+        "push_notification_frequency": "Multiple daily",
+        "sms_frequency": "Monthly",
+        "content_tone": "Engaging/Fun",
+        "personalization_level": "Very High",
+        "social_integration": true,
+        "gamification_elements": true,
+        "content_focus": "Recipe ideas and nutritional information"
+      },
+      "tech_requirements": [
+        "Gamification engine",
+        "Social features",
+        "Community platform"
+      ]
+    },
+    "1": {
+      "segment_id": 1,
+      "segment_description": "Engaged Mobile Phone Customers",
+      "segment_size": 1535,
+      "segment_percentage": 27.264653641207815,
+      "strategy_type": "Engagement_Amplification",
+      "priority_level": "Medium-High",
+      "churn_risk_level": "High",
+      "value_tier": "Standard",
+      "engagement_level": "Very High",
+      "churn_rate": 0.21954397394136807,
+      "avg_value_score": 1.4153302931596092,
+      "avg_engagement": 5.555374592833876,
+      "avg_satisfaction": 3.897068403908795,
+      "primary_category": "Mobile Phone",
+      "primary_tactics": [
+        "Gamification elements integration",
+        "Social sharing incentives",
+        "User-generated content campaigns",
+        "Community forum access",
+        "Beta product testing invitations",
+        "Achievement and badge systems"
+      ],
+      "secondary_tactics": [
+        "Influencer collaboration opportunities",
+        "Content creation partnerships",
+        "Social media features"
+      ],
+      "retention_actions": [
+        "Engagement reward programs",
+        "Community building initiatives",
+        "Feedback loop optimization"
+      ],
+      "growth_actions": [
+        "Advocacy program development",
+        "Social proof utilization",
+        "Network expansion strategies"
+      ],
+      "category_customizations": {
+        "homepage_focus": "Phone accessories and protective gear",
+        "email_content": "Accessory recommendations and bundle deals",
+        "special_offers": "Bundle discounts and protection plans",
+        "content_type": "Compatibility guides and setup tutorials",
+        "engagement_strategy": "Accessory education and tips",
+        "retention_approach": "Cross-selling complementary products"
+      },
+      "implementation_timeline": "4-8 weeks implementation",
+      "success_metrics": [
+        "Engagement time +40%",
+        "Social sharing +60%",
+        "Community participation +35%"
+      ],
+      "resource_requirements": [
+        "Community management",
+        "Social media team",
+        "Gamification platform"
+      ],
+      "expected_impact": {
+        "segment_size": 1535,
+        "customers_at_risk": 337,
+        "customers_retained": 50,
+        "retention_revenue": 60000,
+        "value_increase_revenue": 299520.0,
+        "revenue_impact": 359520.0,
+        "churn_reduction_rate": 0.15,
+        "value_increase_rate": 0.2
+      },
+      "communication_strategy": {
+        "email_frequency": "Daily",
+        "push_notification_frequency": "Multiple daily",
+        "sms_frequency": "Monthly",
+        "content_tone": "Engaging/Fun",
+        "personalization_level": "Very High",
+        "social_integration": true,
+        "gamification_elements": true,
+        "content_focus": "Technical specifications and comparisons"
+      },
+      "tech_requirements": [
+        "Gamification engine",
+        "Social features",
+        "Community platform"
+      ]
+    },
+    "2": {
+      "segment_id": 2,
+      "segment_description": "Basic Laptop & Accessory Customers",
+      "segment_size": 1454,
+      "segment_percentage": 25.825932504440495,
+      "strategy_type": "Engagement_Amplification",
+      "priority_level": "Medium-High",
+      "churn_risk_level": "Medium",
+      "value_tier": "Basic",
+      "engagement_level": "Very High",
+      "churn_rate": 0.19119669876203577,
+      "avg_value_score": 0.7673060522696011,
+      "avg_engagement": 4.619257221458047,
+      "avg_satisfaction": 3.65474552957359,
+      "primary_category": "Laptop & Accessory",
+      "primary_tactics": [
+        "Gamification elements integration",
+        "Social sharing incentives",
+        "User-generated content campaigns",
+        "Community forum access",
+        "Beta product testing invitations",
+        "Achievement and badge systems"
+      ],
+      "secondary_tactics": [
+        "Influencer collaboration opportunities",
+        "Content creation partnerships",
+        "Social media features"
+      ],
+      "retention_actions": [
+        "Engagement reward programs",
+        "Community building initiatives",
+        "Feedback loop optimization"
+      ],
+      "growth_actions": [
+        "Advocacy program development",
+        "Social proof utilization",
+        "Network expansion strategies"
+      ],
+      "category_customizations": {
+        "homepage_focus": "Productivity and professional equipment",
+        "email_content": "Professional productivity tips and product guides",
+        "special_offers": "Business discounts and bulk purchase options",
+        "content_type": "Performance comparisons and professional reviews",
+        "engagement_strategy": "Professional community and B2B focus",
+        "retention_approach": "Enterprise solutions and support"
+      },
+      "implementation_timeline": "4-8 weeks implementation",
+      "success_metrics": [
+        "Engagement time +40%",
+        "Social sharing +60%",
+        "Community participation +35%"
+      ],
+      "resource_requirements": [
+        "Community management",
+        "Social media team",
+        "Gamification platform"
+      ],
+      "expected_impact": {
+        "segment_size": 1454,
+        "customers_at_risk": 278,
+        "customers_retained": 41,
+        "retention_revenue": 49200,
+        "value_increase_revenue": 292080.0,
+        "revenue_impact": 341280.0,
+        "churn_reduction_rate": 0.15,
+        "value_increase_rate": 0.2
+      },
+      "communication_strategy": {
+        "email_frequency": "Daily",
+        "push_notification_frequency": "Multiple daily",
+        "sms_frequency": "Monthly",
+        "content_tone": "Engaging/Fun",
+        "personalization_level": "Very High",
+        "social_integration": true,
+        "gamification_elements": true
+      },
+      "tech_requirements": [
+        "Gamification engine",
+        "Social features",
+        "Community platform"
+      ]
+    },
+    "3": {
+      "segment_id": 3,
+      "segment_description": "Premium Laptop & Accessory Customers",
+      "segment_size": 690,
+      "segment_percentage": 12.25577264653641,
+      "strategy_type": "Engagement_Amplification",
+      "priority_level": "Medium-High",
+      "churn_risk_level": "Medium",
+      "value_tier": "Premium",
+      "engagement_level": "Very High",
+      "churn_rate": 0.15797101449275364,
+      "avg_value_score": 3.3843391304347827,
+      "avg_engagement": 7.086231884057971,
+      "avg_satisfaction": 3.2202898550724637,
+      "primary_category": "Laptop & Accessory",
+      "primary_tactics": [
+        "Gamification elements integration",
+        "Social sharing incentives",
+        "User-generated content campaigns",
+        "Community forum access",
+        "Beta product testing invitations",
+        "Achievement and badge systems"
+      ],
+      "secondary_tactics": [
+        "Influencer collaboration opportunities",
+        "Content creation partnerships",
+        "Social media features"
+      ],
+      "retention_actions": [
+        "Engagement reward programs",
+        "Community building initiatives",
+        "Feedback loop optimization"
+      ],
+      "growth_actions": [
+        "Advocacy program development",
+        "Social proof utilization",
+        "Network expansion strategies"
+      ],
+      "category_customizations": {
+        "homepage_focus": "Productivity and professional equipment",
+        "email_content": "Professional productivity tips and product guides",
+        "special_offers": "Business discounts and bulk purchase options",
+        "content_type": "Performance comparisons and professional reviews",
+        "engagement_strategy": "Professional community and B2B focus",
+        "retention_approach": "Enterprise solutions and support"
+      },
+      "implementation_timeline": "4-8 weeks implementation",
+      "success_metrics": [
+        "Engagement time +40%",
+        "Social sharing +60%",
+        "Community participation +35%"
+      ],
+      "resource_requirements": [
+        "Community management",
+        "Social media team",
+        "Gamification platform"
+      ],
+      "expected_impact": {
+        "segment_size": 690,
+        "customers_at_risk": 109,
+        "customers_retained": 16,
+        "retention_revenue": 19200,
+        "value_increase_revenue": 143280.0,
+        "revenue_impact": 162480.0,
+        "churn_reduction_rate": 0.15,
+        "value_increase_rate": 0.2
+      },
+      "communication_strategy": {
+        "email_frequency": "Daily",
+        "push_notification_frequency": "Multiple daily",
+        "sms_frequency": "Monthly",
+        "content_tone": "Engaging/Fun",
+        "personalization_level": "Very High",
+        "social_integration": true,
+        "gamification_elements": true
+      },
+      "tech_requirements": [
+        "Gamification engine",
+        "Social features",
+        "Community platform"
+      ]
+    },
+    "4": {
+      "segment_id": 4,
+      "segment_description": "Basic Laptop & Accessory Customers",
+      "segment_size": 1292,
+      "segment_percentage": 22.94849023090586,
+      "strategy_type": "Engagement_Amplification",
+      "priority_level": "Medium-High",
+      "churn_risk_level": "Medium",
+      "value_tier": "Basic",
+      "engagement_level": "Very High",
+      "churn_rate": 0.15789473684210525,
+      "avg_value_score": 0.961030185758514,
+      "avg_engagement": 5.207585139318886,
+      "avg_satisfaction": 1.3645510835913313,
+      "primary_category": "Laptop & Accessory",
+      "primary_tactics": [
+        "Gamification elements integration",
+        "Social sharing incentives",
+        "User-generated content campaigns",
+        "Community forum access",
+        "Beta product testing invitations",
+        "Achievement and badge systems"
+      ],
+      "secondary_tactics": [
+        "Influencer collaboration opportunities",
+        "Content creation partnerships",
+        "Social media features"
+      ],
+      "retention_actions": [
+        "Engagement reward programs",
+        "Community building initiatives",
+        "Feedback loop optimization"
+      ],
+      "growth_actions": [
+        "Advocacy program development",
+        "Social proof utilization",
+        "Network expansion strategies"
+      ],
+      "category_customizations": {
+        "homepage_focus": "Productivity and professional equipment",
+        "email_content": "Professional productivity tips and product guides",
+        "special_offers": "Business discounts and bulk purchase options",
+        "content_type": "Performance comparisons and professional reviews",
+        "engagement_strategy": "Professional community and B2B focus",
+        "retention_approach": "Enterprise solutions and support"
+      },
+      "implementation_timeline": "4-8 weeks implementation",
+      "success_metrics": [
+        "Engagement time +40%",
+        "Social sharing +60%",
+        "Community participation +35%"
+      ],
+      "resource_requirements": [
+        "Community management",
+        "Social media team",
+        "Gamification platform"
+      ],
+      "expected_impact": {
+        "segment_size": 1292,
+        "customers_at_risk": 204,
+        "customers_retained": 30,
+        "retention_revenue": 36000,
+        "value_increase_revenue": 268320.0,
+        "revenue_impact": 304320.0,
+        "churn_reduction_rate": 0.15,
+        "value_increase_rate": 0.2
+      },
+      "communication_strategy": {
+        "email_frequency": "Daily",
+        "push_notification_frequency": "Multiple daily",
+        "sms_frequency": "Monthly",
+        "content_tone": "Engaging/Fun",
+        "personalization_level": "Very High",
+        "social_integration": true,
+        "gamification_elements": true
+      },
+      "tech_requirements": [
+        "Gamification engine",
+        "Social features",
+        "Community platform"
+      ]
+    }
+  },
+  "cross_segment_insights": {
+    "total_segments": 5,
+    "high_risk_segments": 1,
+    "high_value_segments": 1,
+    "priority_segments": 0,
+    "total_customers": 5630,
+    "high_risk_customers": 1535,
+    "high_value_customers": 690,
+    "priority_customers": 0,
+    "category_distribution": {
+      "Grocery": {
+        "segments": 1,
+        "customers": 659,
+        "avg_churn_rate": 0.030349013657056147
+      },
+      "Mobile Phone": {
+        "segments": 1,
+        "customers": 1535,
+        "avg_churn_rate": 0.21954397394136807
+      },
+      "Laptop & Accessory": {
+        "segments": 3,
+        "customers": 3436,
+        "avg_churn_rate": 0.16902081669896488
+      }
+    },
+    "strategy_type_distribution": {
+      "Engagement_Amplification": {
+        "segments": 5,
+        "customers": 5630,
+        "total_impact": 1325280.0
+      }
+    }
+  },
+  "impact_estimations": {
+    "total_revenue_impact": 1325280.0,
+    "total_customers_retained": 140,
+    "total_customers": 5630,
+    "retention_rate_improvement": 0.02486678507992895,
+    "total_implementation_cost": 175000,
+    "net_benefit": 1150280.0,
+    "roi_percentage": 657.3028571428571,
+    "payback_period_months": 1.5845708076783773
+  },
+  "category_customizations": {
+    "Mobile": {
+      "homepage_focus": "Latest mobile technology and comparisons",
+      "email_content": "Tech reviews and specification comparisons",
+      "special_offers": "Trade-in programs and extended warranties",
+      "content_type": "Video reviews and technical specifications",
+      "engagement_strategy": "Tech-focused community building",
+      "retention_approach": "Innovation showcasing and early access"
+    },
+    "Mobile Phone": {
+      "homepage_focus": "Phone accessories and protective gear",
+      "email_content": "Accessory recommendations and bundle deals",
+      "special_offers": "Bundle discounts and protection plans",
+      "content_type": "Compatibility guides and setup tutorials",
+      "engagement_strategy": "Accessory education and tips",
+      "retention_approach": "Cross-selling complementary products"
+    },
+    "Laptop & Accessory": {
+      "homepage_focus": "Productivity and professional equipment",
+      "email_content": "Professional productivity tips and product guides",
+      "special_offers": "Business discounts and bulk purchase options",
+      "content_type": "Performance comparisons and professional reviews",
+      "engagement_strategy": "Professional community and B2B focus",
+      "retention_approach": "Enterprise solutions and support"
+    },
+    "Fashion": {
+      "homepage_focus": "Trending styles and seasonal collections",
+      "email_content": "Style guides and fashion trends",
+      "special_offers": "Seasonal sales and style subscriptions",
+      "content_type": "Lookbooks and styling videos",
+      "engagement_strategy": "Style inspiration and social features",
+      "retention_approach": "Personal styling and trend updates"
+    },
+    "Grocery": {
+      "homepage_focus": "Fresh products and bulk purchase options",
+      "email_content": "Recipe suggestions and nutritional information",
+      "special_offers": "Bulk discounts and subscription services",
+      "content_type": "Recipe videos and nutritional guides",
+      "engagement_strategy": "Recipe sharing and meal planning",
+      "retention_approach": "Convenience and freshness guarantees"
+    },
+    "Others": {
+      "homepage_focus": "Diverse product exploration and discovery",
+      "email_content": "Product discovery and recommendations",
+      "special_offers": "Cross-category discounts and bundles",
+      "content_type": "Product discovery and comparison guides",
+      "engagement_strategy": "Exploration rewards and discovery features",
+      "retention_approach": "Personalized discovery and surprise offers"
+    }
+  },
+  "creation_timestamp": "2025-09-05T21:38:21.176800"
+}

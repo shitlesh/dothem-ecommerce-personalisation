@@ -1,0 +1,391 @@
+[
+  {
+    "customer_id": "55301",
+    "segment": "0",
+    "segment_description": "Engaged Grocery Customers",
+    "churn_probability": 0.015,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcc8 Implement upselling strategies with relevant premium options",
+      "\ud83d\udd04 Cross-sell complementary products from other categories",
+      "\ud83d\udd0d Enable advanced product discovery features",
+      "\ud83c\udfaf Provide personalized recommendations across all categories",
+      "\ud83c\udf81 Offer surprise and delight campaigns",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution",
+      "\ud83d\udcde Schedule satisfaction improvement consultation",
+      "\ud83c\udfaf Focus on service quality improvements and personalized attention"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true,
+      "content_focus": "Recipe ideas and nutritional information"
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "53588",
+    "segment": "0",
+    "segment_description": "Engaged Grocery Customers",
+    "churn_probability": 0.015,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcbb Highlight productivity tools and business solutions",
+      "\ud83d\udcca Offer professional-grade equipment and bulk discounts",
+      "\ud83c\udfe2 Provide enterprise solutions and dedicated support",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution",
+      "\ud83d\udcde Schedule satisfaction improvement consultation",
+      "\ud83c\udfaf Focus on service quality improvements and personalized attention"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true,
+      "content_focus": "Recipe ideas and nutritional information"
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "54844",
+    "segment": "1",
+    "segment_description": "Engaged Mobile Phone Customers",
+    "churn_probability": 0.99,
+    "risk_level": "High Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udea8 URGENT: Trigger immediate retention campaign within 24 hours",
+      "\ud83d\udcde Assign to customer success team for personal outreach",
+      "\ud83d\udcb0 Send personalized discount offer (15-20% off next purchase)",
+      "\ud83d\udccb Schedule immediate satisfaction survey and follow-up call",
+      "\u26a1 Provide priority customer support and fast-track issue resolution",
+      "\ud83d\udcc8 Implement upselling strategies with relevant premium options",
+      "\ud83d\udd04 Cross-sell complementary products from other categories",
+      "\ud83d\udd0c Recommend compatible accessories and charging solutions"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true,
+      "content_focus": "Technical specifications and comparisons"
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "High Priority - 30-40% reduction expected",
+      "expected_engagement_increase": "25-40%",
+      "expected_value_increase": "10-20%",
+      "timeline_to_impact": "1-2 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "50976",
+    "segment": "1",
+    "segment_description": "Engaged Mobile Phone Customers",
+    "churn_probability": 0.0,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcc8 Implement upselling strategies with relevant premium options",
+      "\ud83d\udd04 Cross-sell complementary products from other categories",
+      "\ud83d\udcf1 Show latest mobile device comparisons and reviews",
+      "\ud83d\udd04 Offer trade-in programs with bonus incentives",
+      "\ud83d\udee1\ufe0f Promote extended warranty and protection plans"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true,
+      "content_focus": "Technical specifications and comparisons"
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "50918",
+    "segment": "2",
+    "segment_description": "Basic Laptop & Accessory Customers",
+    "churn_probability": 0.03,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcf1 Show latest mobile device comparisons and reviews",
+      "\ud83d\udd04 Offer trade-in programs with bonus incentives",
+      "\ud83d\udee1\ufe0f Promote extended warranty and protection plans"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "52565",
+    "segment": "2",
+    "segment_description": "Basic Laptop & Accessory Customers",
+    "churn_probability": 0.02,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcf1 Show latest mobile device comparisons and reviews",
+      "\ud83d\udd04 Offer trade-in programs with bonus incentives",
+      "\ud83d\udee1\ufe0f Promote extended warranty and protection plans"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "52858",
+    "segment": "3",
+    "segment_description": "Premium Laptop & Accessory Customers",
+    "churn_probability": 0.035,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\u2b50 Showcase premium product recommendations and exclusive items",
+      "\ud83c\udf96\ufe0f Offer VIP customer benefits and priority service access",
+      "\ud83d\ude80 Provide early access to new products and beta features",
+      "\ud83c\udfaf Create personalized product bundles based on purchase history",
+      "\ud83d\udc57 Display trending fashion items and seasonal collections",
+      "\u2728 Send personalized style guide emails and lookbooks",
+      "\ud83c\udfa8 Offer styling consultations and personal shopper services",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "54379",
+    "segment": "3",
+    "segment_description": "Premium Laptop & Accessory Customers",
+    "churn_probability": 0.03,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\u2b50 Showcase premium product recommendations and exclusive items",
+      "\ud83c\udf96\ufe0f Offer VIP customer benefits and priority service access",
+      "\ud83d\ude80 Provide early access to new products and beta features",
+      "\ud83c\udfaf Create personalized product bundles based on purchase history",
+      "\ud83d\udc57 Display trending fashion items and seasonal collections",
+      "\u2728 Send personalized style guide emails and lookbooks",
+      "\ud83c\udfa8 Offer styling consultations and personal shopper services",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "51772",
+    "segment": "4",
+    "segment_description": "Basic Laptop & Accessory Customers",
+    "churn_probability": 0.01,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcc8 Implement upselling strategies with relevant premium options",
+      "\ud83d\udd04 Cross-sell complementary products from other categories",
+      "\ud83d\udcf1 Show latest mobile device comparisons and reviews",
+      "\ud83d\udd04 Offer trade-in programs with bonus incentives",
+      "\ud83d\udee1\ufe0f Promote extended warranty and protection plans",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution",
+      "\ud83d\udcde Schedule satisfaction improvement consultation",
+      "\ud83c\udfaf Focus on service quality improvements and personalized attention"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  },
+  {
+    "customer_id": "52329",
+    "segment": "4",
+    "segment_description": "Basic Laptop & Accessory Customers",
+    "churn_probability": 0.005,
+    "risk_level": "Low Risk",
+    "strategy_type": "Engagement_Amplification",
+    "priority_level": "Medium-High",
+    "personalization_actions": [
+      "\ud83d\udcc8 Implement upselling strategies with relevant premium options",
+      "\ud83d\udd04 Cross-sell complementary products from other categories",
+      "\ud83d\udcbb Highlight productivity tools and business solutions",
+      "\ud83d\udcca Offer professional-grade equipment and bulk discounts",
+      "\ud83c\udfe2 Provide enterprise solutions and dedicated support",
+      "\ud83d\udd27 Implement proactive customer service and issue resolution",
+      "\ud83d\udcde Schedule satisfaction improvement consultation",
+      "\ud83c\udfaf Focus on service quality improvements and personalized attention"
+    ],
+    "communication_strategy": {
+      "email_frequency": "Daily",
+      "push_notification_frequency": "Multiple daily",
+      "sms_frequency": "Monthly",
+      "content_tone": "Engaging/Fun",
+      "personalization_level": "Very High",
+      "social_integration": true,
+      "gamification_elements": true
+    },
+    "expected_outcomes": {
+      "churn_risk_reduction": "Maintenance - Focus on growth",
+      "expected_engagement_increase": "10-15%",
+      "expected_value_increase": "20-30%",
+      "timeline_to_impact": "2-4 weeks"
+    },
+    "implementation_timeline": "4-8 weeks implementation",
+    "success_metrics": [
+      "Engagement time +40%",
+      "Social sharing +60%",
+      "Community participation +35%"
+    ]
+  }
+]
